@@ -1,0 +1,17 @@
+{
+    "name": "nicole-script-processor",
+    "version": "0.0.1",
+    "description": "Simple script to help the girlfriend with a hobby.",
+    "main": "server.js",
+    "repository": "",
+    "author": "Anthony Williams <anthony.williams.cs@gmail.com>",
+    "dependencies": {
+        "async": "~0.2.8",
+        "body-parser": "~1.17.1",
+        "express": "~3.2.4",
+        "jsdom": "~9.11.0",
+        "lodash": "~4.17.4",
+        "moment": "~2.17.1",
+        "connect-timeout": "~1.8.0"
+    }
+}
